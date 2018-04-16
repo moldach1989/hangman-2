@@ -1,0 +1,22 @@
+{
+    "name": "week11-hangman",
+    "version": "1.0.0",
+    "description": "hangman",
+    "main": "main.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/moldach1989/hangman-2"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/moldach1989/hangman-2/issues"
+    },
+    "homepage": "https://github.comm/moldach1989/hangman-2#readme",
+    "dependencies": {
+      "prompt": "^1.0.0"
+    }
+}
